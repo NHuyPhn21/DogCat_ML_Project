@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Bỏ comment dòng dưới nếu tập ảnh của bạn quá nặng (>100MB)
+#data/
